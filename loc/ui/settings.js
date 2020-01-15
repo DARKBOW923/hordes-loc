@@ -4,7 +4,7 @@ export default {
     en: 'Settings',
     ru: 'Настройки',
     hi: 'सेटिंग्स',
-    es: 'Configuraciones',
+    es: 'Configuración',
     de: 'Einstellungen',
     fr: 'Paramètres',
     nl: 'Instellingen',
@@ -39,6 +39,7 @@ export default {
 
   keybindings: {
     en: 'Key bindings',
+    es: 'Atajos de teclado',
     de: 'Tastenbelegung',
     ru: 'Привязки клавиш',
     pt: 'Combinações de teclas',
@@ -53,6 +54,7 @@ export default {
 
   camera: {
     en: 'Camera',
+    es: 'Cámara',
     de: 'Kamera',
     fr: 'Caméra',
     ru: 'Камера',
@@ -61,6 +63,7 @@ export default {
 
   mousesensitivity: {
     en: 'Sensitivity',
+    es: 'Sensibilidad del ratón',
     de: 'Empfindlichkeit',
     fr: 'Sensibilité',
     ru: 'Чувствительность',
@@ -70,6 +73,7 @@ export default {
 
   invertmousex: {
     en: 'Invert horizontally',
+    es: 'Invertir horizontalmente',
     de: 'X-Achse umkehren',
     fr: 'Inverser horizontalement',
     ru: 'Инвертировать горизонтально',
@@ -80,6 +84,7 @@ export default {
   invertmousey: {
     en: 'Invert vertically',
     de: 'Y-Achse umkehren',
+    es: 'Invertir verticalmente',
     fr: 'Inverser verticalement',
     ru: 'Инвертировать вертикально',
     pl: 'Inwersja pionowa',
@@ -94,7 +99,7 @@ export default {
     fr: 'Cacher la souris pendant les rotations',
     nl: 'Verstop rechter muis knop tijdens rotatie',
     hu: 'Egérmutató elrejtése forgáskor',
-    es: 'Ocultar el mouse durante la rotación',
+    es: 'Ocultar el puntero durante la rotación',
     zh: '旋轉中隱藏滑鼠',
     pl: 'Schowaj myszkę podczas obrotu',
     vi: 'Ẩn chuột khi xoay'
@@ -175,6 +180,7 @@ export default {
 
   postprocessing: {
     en: 'Post-processing',
+    es: 'Post-Procesamiento',
     de: 'Nachbearbeitung',
     ru: 'Постобработка',
     tr: 'Detaylandırma',
@@ -280,7 +286,7 @@ export default {
     ru: 'Детализация',
     nl: 'Detail Voorwerpen',
     hu: 'Részletes objektumok',
-    es: 'Detalle de accesorios',
+    es: 'Detalles de accesorios',
     zh: '細節道具',
     fr: 'Objets détaillés',
     pl: 'Szczegóły',
@@ -327,7 +333,7 @@ export default {
     de: 'Musik-Lautstärke',
     ru: 'Громкость музыки',
     fr: 'Volume des Musiques',
-    es: 'Volumen de música',
+    es: 'Volumen de la música',
     pl: 'Poziom muzyki',
     vi: 'Âm lượng nhạc'
   },
@@ -433,6 +439,7 @@ export default {
   // Do NOT translate "Stash"
   stashwidth: {
     en: 'Stash width',
+    es: 'Ancho del Stash',
     ru: 'Ширина Stash',
     fr: 'Largeur de Stash',
     hu: 'Stash szélesség',
@@ -474,7 +481,7 @@ export default {
     en: 'Reset tutorial',
     ru: 'Начать обучение снова',
     hi: 'शिक्षण रीसेट',
-    es: 'Reiniciar tutorial',
+    es: 'Reiniciar el tutorial',
     de: 'Tutorial zurücksetzen',
     fr: 'Réinitialiser le tutoriel',
     nl: 'Reset handleiding',
@@ -497,7 +504,7 @@ export default {
     pt: 'Desativar o tutorial',
     nl: 'Handleiding uitschakelen',
     hu: 'Bemutató elrejtése',
-    es: 'Desactivar tutorial',
+    es: 'Deshabilitar el tutorial',
     zh: '禁用講解',
     pl: 'Wyłącz samouczek',
     vi: 'Vô hiệu hóa hướng dẫn'
